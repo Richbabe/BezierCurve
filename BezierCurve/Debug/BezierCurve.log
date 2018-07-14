@@ -1,0 +1,14 @@
+﻿  源.cpp
+e:\shader_s\include\shader_s.h(4): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+f:\计算机图形学\code\beziercurve\beziercurve\源.cpp(31): warning C4244: “return”: 从“double”转换到“GLfloat”，可能丢失数据
+f:\计算机图形学\code\beziercurve\beziercurve\源.cpp(36): warning C4244: “return”: 从“double”转换到“GLfloat”，可能丢失数据
+f:\计算机图形学\code\beziercurve\beziercurve\源.cpp(55): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\计算机图形学\code\beziercurve\beziercurve\源.cpp(56): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\计算机图形学\code\beziercurve\beziercurve\源.cpp(101): warning C4305: “+=”: 从“double”到“GLfloat”截断
+f:\计算机图形学\code\beziercurve\beziercurve\源.cpp(109): warning C4244: “参数”: 从“GLfloat”转换到“int”，可能丢失数据
+f:\计算机图形学\code\beziercurve\beziercurve\源.cpp(220): warning C4018: “<”: 有符号/无符号不匹配
+f:\计算机图形学\code\beziercurve\beziercurve\源.cpp(236): warning C4018: “<”: 有符号/无符号不匹配
+f:\计算机图形学\code\beziercurve\beziercurve\源.cpp(247): warning C4018: “<”: 有符号/无符号不匹配
+f:\计算机图形学\code\beziercurve\beziercurve\源.cpp(249): warning C4244: “参数”: 从“GLfloat”转换到“int”，可能丢失数据
+  BezierCurve.vcxproj -> F:\计算机图形学\Code\BezierCurve\Debug\BezierCurve.exe
+  BezierCurve.vcxproj -> F:\计算机图形学\Code\BezierCurve\Debug\BezierCurve.pdb (Full PDB)
